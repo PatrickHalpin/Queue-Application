@@ -1,0 +1,29 @@
+body
+{
+	padding-left: 2%;
+}
+
+.head
+{
+	background-color: #ECF0F1;
+	padding: 1%;
+  	border-radius: 15px;
+}
+#form
+{
+	padding-top: 5%;
+	font-size: 18;
+
+}
+#buttons
+{
+	padding-top: 2%;
+}
+
+
+#queue
+{
+	padding-top: 5%;
+	font-size: 18;
+}
+
